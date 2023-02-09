@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi
 
-a href="https://app.daily.dev/runeball"><img src="https://api.daily.dev/devcards/7b3753ca9e6f485e98e7eec1644bbedc.png?r=n2b" width="400" alt="Rune Balstad's Dev Card"/></a>
+<a href="https://app.daily.dev/runeball"><img src="https://api.daily.dev/devcards/7b3753ca9e6f485e98e7eec1644bbedc.png?r=n2b" width="400" alt="Rune Balstad's Dev Card"/></a>
 - 🔭 I’m currently working on Me, Myself & I  
 - 🌱 I’m currently learning Life 
 - 🤝 I’m looking for help with **Everything**
